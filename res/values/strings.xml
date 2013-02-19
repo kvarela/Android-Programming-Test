@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Playhaven Test</string>
+    <string name="a">Activity A</string>
+    <string name="b">Activity B</string><string name="c">Activity C</string>
+    <string name="d">Activity D</string>
+    <string name="time">Time App Visible = 0</string>
+    
+
+</resources>
